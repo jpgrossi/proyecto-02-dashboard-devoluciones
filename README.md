@@ -11,7 +11,7 @@ en Latinoamérica. El proyecto fue desarrollado como business case resolviendo p
 reales de negocio mediante SQL y Power BI, con foco en la toma de decisiones operativas 
 y estratégicas.
 
-**[▶ Ver Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiYWNmZDc5NmYtYWZjNi00NzA0LTk4ZTUtODlkYzBkZjI2N2Q3IiwidCI6ImFmMjUxN2FmLTFkZjAtNDEwMy1iMzM4LTQxMWQwYjE5ZWI4NSJ9))**
+**[▶ Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNmZDc5NmYtYWZjNi00NzA0LTk4ZTUtODlkYzBkZjI2N2Q3IiwidCI6ImFmMjUxN2FmLTFkZjAtNDEwMy1iMzM4LTQxMWQwYjE5ZWI4NSJ9))**
 
 ---
 
